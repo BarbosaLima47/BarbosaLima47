@@ -1,6 +1,6 @@
 - 👋 Olá, sou o Alexandre
 - 👀 Estou interessado em desenvolvimento web
-- 🌱 Estou estudando: Java, Spring, SQL e GIT
+- 🌱 Estou estudando: Java, Spring, SQL, GIT, C# e AspNet
 - 💞️ Estou interessado em atua em projetos back end
 - 📫 Pode me encontrar em alexandrebarbosalima47@gmail.com
 
